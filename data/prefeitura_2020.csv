@@ -1,0 +1,581 @@
+"sq_candidato","Nome.Candidato","Cidade","UF","Cargo","Partido","Resultado_Eleitoral","Genero","Raca","Valor_Receita","Votos","ano"
+260000637329,"Antonio Carlos Valadares Filho","Aracaju","SE","Vice-prefeito","PSB","2º Turno","MASC.","BRANCA",NA,0,2020
+260000637329,"Antonio Carlos Valadares Filho","Aracaju","SE","Vice-prefeito","PSB","Não Eleito","MASC.","BRANCA",NA,0,2020
+260000743433,"Alda Rejane Arruda Da Silva","Aracaju","SE","Vice-prefeito","PMB","Não Eleito","FEM.","PARDA",NA,0,2020
+260000835178,"José Péricles Menezes De Oliveira","Aracaju","SE","Vice-prefeito","DEM","Não Eleito","MASC.","PARDA",NA,0,2020
+260000857749,"Davi Lima Valente Calazans","Aracaju","SE","Vice-prefeito","AVANTE","Não Eleito","MASC.","PRETA",NA,0,2020
+260000935641,"Luis Eduardo Prado Correia","Aracaju","SE","Vice-prefeito","PRTB","Não Eleito","MASC.","PARDA",NA,0,2020
+260000935815,"Waltemir Augusto Da Silva","Aracaju","SE","Vice-prefeito","PSTU","Não Eleito","MASC.","PRETA",NA,0,2020
+260000958768,"Ana Lucia Vieira Menezes","Aracaju","SE","Vice-prefeito","PT","Não Eleito","FEM.","BRANCA",NA,0,2020
+260000983414,"Katarina Feitoza Lima Santana","Aracaju","SE","Vice-prefeito","PSD","2º Turno","FEM.","BRANCA",NA,0,2020
+260000983414,"Katarina Feitoza Lima Santana","Aracaju","SE","Vice-prefeito","PSD","Eleito","FEM.","BRANCA",NA,0,2020
+260001037486,"Simone Santos Vieira","Aracaju","SE","Vice-prefeito","DC","Não Eleito","FEM.","BRANCA",NA,0,2020
+260001065878,"Maria Vanilda Rodrigues De Moraes Mafort","Aracaju","SE","Vice-prefeito","PSL","Não Eleito","FEM.","BRANCA",NA,0,2020
+260001087379,"Ana Carolina Santana Quintiliano","Aracaju","SE","Vice-prefeito","PSOL","Não Eleito","FEM.","PARDA",NA,0,2020
+260000743434,"Juraci Nunes De Carvalho Junior","Aracaju","SE","Prefeito","PMB","Não Eleito","MASC.","BRANCA",4200,288,2020
+260000935814,"Gilvani Alves Dos Santos","Aracaju","SE","Prefeito","PSTU","Não Eleito","FEM.","PRETA",12285,568,2020
+260001037485,"PAULO MÁRCIO RAMOS CRUZ","Aracaju","SE","Prefeito","DC","Não Eleito","MASC.","PARDA",16334.46,634,2020
+260000935642,"JOSÉ ALMEIDA LIMA","Aracaju","SE","Prefeito","PRTB","Não Eleito","MASC.","PARDA",31589.77,572,2020
+260000857748,"Lúcio Flávio Miranda Da Rocha","Aracaju","SE","Prefeito","AVANTE","Não Eleito","MASC.","PARDA",58179.43,12448,2020
+260001087378,"ALEXIS MAGNUM AZEVEDO DE JESUS","Aracaju","SE","Prefeito","PSOL","Não Eleito","MASC.","PRETA",95115.85,8352,2020
+260000835177,"GEORLIZE OLIVEIRA COSTA TELES","Aracaju","SE","Prefeito","DEM","Não Eleito","FEM.","BRANCA",1155170,10458,2020
+260000958767,"Márcio Costa Macêdo","Aracaju","SE","Prefeito","PT","Não Eleito","MASC.","BRANCA",1296255.77,25070,2020
+260000637328,"Danielle Garcia Alves Soares","Aracaju","SE","Prefeito","CIDADANIA","2º Turno","FEM.","PARDA",2545377.69,165837,2020
+260000637328,"Danielle Garcia Alves Soares","Aracaju","SE","Prefeito","CIDADANIA","Não Eleito","FEM.","PARDA",2545377.69,165837,2020
+260001065879,"Rodrigo Santana Valadares","Aracaju","SE","Prefeito","PTB","Não Eleito","MASC.","BRANCA",3155500,28598,2020
+260000983413,"Edvaldo Nogueira Filho","Aracaju","SE","Prefeito","PDT","2º Turno","MASC.","PARDA",4149731.35,270504,2020
+260000983413,"Edvaldo Nogueira Filho","Aracaju","SE","Prefeito","PDT","Eleito","MASC.","PARDA",4149731.35,270504,2020
+140000637324,"Ana Lúcia Souza Da Silva","Belém","PA","Vice-prefeito","PSTU","Não Eleito","FEM.","PRETA",NA,0,2020
+140000698876,"Diamantina Pastana Do Nascimento","Belém","PA","Vice-prefeito","PTC","Não Eleito","FEM.","PARDA",NA,0,2020
+140000744290,"EDILSON MOURA DA SILVA","Belém","PA","Vice-prefeito","PT","2º Turno","MASC.","PRETA",NA,0,2020
+140000744290,"EDILSON MOURA DA SILVA","Belém","PA","Vice-prefeito","PT","Eleito","MASC.","PRETA",NA,0,2020
+140000762462,"Ana Paula Favacho Da Silveira Andrade","Belém","PA","Vice-prefeito","PMB","Não Eleito","FEM.","PARDA",NA,0,2020
+140000762517,"Carlos Gonçalves Da Costa","Belém","PA","Vice-prefeito","REPUBLICANOS","Não Eleito","MASC.","PARDA",NA,0,2020
+140000801173,"Max Pereira De Lima","Belém","PA","Vice-prefeito","PROS","Não Eleito","MASC.","PARDA",NA,0,2020
+140001125825,"Patricia Luila Viana Queiroz","Belém","PA","Vice-prefeito","PSC","Não Eleito","FEM.","PARDA",NA,0,2020
+140001192971,"Cristiano Soares Sobral De Souza","Belém","PA","Vice-prefeito","PCO","Não Eleito","MASC.","BRANCA",NA,0,2020
+140001194404,"Alexandre Padilla Nascimento Filho","Belém","PA","Vice-prefeito","PP","Não Eleito","MASC.","BRANCA",NA,0,2020
+140001196860,"Edemberg Quemer Costa Da Mota","Belém","PA","Vice-prefeito","PATRIOTA","2º Turno","MASC.","PARDA",NA,0,2020
+140001196860,"Edemberg Quemer Costa Da Mota","Belém","PA","Vice-prefeito","PATRIOTA","Não Eleito","MASC.","PARDA",NA,0,2020
+140001226723,"Marinalva Muniz Da Silva","Belém","PA","Vice-prefeito","PSDB","Não Eleito","FEM.","PRETA",NA,0,2020
+140001230532,"Samir Tadeu Ferreira Santos","Belém","PA","Vice-prefeito","PRTB","Nulo","MASC.","PRETA",NA,0,2020
+140001274817,"LUIZ ALEXANDRE REZENDE SOTAO","Belém","PA","Vice-prefeito","PRTB","Não Eleito","MASC.","PARDA",NA,0,2020
+140001192970,"Jair Lopes Correia","Belém","PA","Prefeito","PCO","Não Eleito","MASC.","BRANCA",1000,0,2020
+140000762463,"Jose Jeronimo De Sousa","Belém","PA","Prefeito","PMB","Não Eleito","MASC.","PARDA",4148,759,2020
+140000637323,"José Cleber Barros Rabelo","Belém","PA","Prefeito","PSTU","Não Eleito","MASC.","PARDA",14000,1026,2020
+140001230533,"Mario Couto Filho","Belém","PA","Prefeito","PRTB","Não Eleito","MASC.","PARDA",59400,0,2020
+140000698875,"Luiz Guilherme Lessa De França","Belém","PA","Prefeito","PTC","Não Eleito","MASC.","PARDA",159900,2417,2020
+140001196861,"EVERALDO JORGE MARTINS EGUCHI","Belém","PA","Prefeito","PATRIOTA","2º Turno","MASC.","PARDA",423180.49,531694,2020
+140001196861,"EVERALDO JORGE MARTINS EGUCHI","Belém","PA","Prefeito","PATRIOTA","Não Eleito","MASC.","PARDA",423180.49,531694,2020
+140000762516,"Wagner Bach Martins","Belém","PA","Prefeito","REPUBLICANOS","Não Eleito","MASC.","BRANCA",531195.35,49476,2020
+140001194405,"Gustavo Bemerguy Sefer","Belém","PA","Prefeito","PSD","Não Eleito","MASC.","BRANCA",801570.6,22996,2020
+140000801174,"Cassio Coelho Andrade","Belém","PA","Prefeito","PSB","Não Eleito","MASC.","PARDA",969620.22,49988,2020
+140001125824,"José Benito Priante Junior","Belém","PA","Prefeito","MDB","Não Eleito","MASC.","BRANCA",1505300,123808,2020
+140001226722,"THIAGO ARAUJO","Belém","PA","Prefeito","CIDADANIA","Não Eleito","MASC.","BRANCA",1516025,58827,2020
+140000744291,"EDMILSON BRITO RODRIGUES","Belém","PA","Prefeito","PSOL","2º Turno","MASC.","BRANCA",2426207.47,639474,2020
+140000744291,"EDMILSON BRITO RODRIGUES","Belém","PA","Prefeito","PSOL","Eleito","MASC.","BRANCA",2426207.47,639474,2020
+130000639685,"Patrícia Albergaria Iamin Curi","Belo Horizonte","MG","Vice-prefeito","NOVO","Não Eleito","FEM.","BRANCA",NA,0,2020
+130000658457,"Leandro Carlos Moreira","Belo Horizonte","MG","Vice-prefeito","PATRIOTA","Não Eleito","MASC.","PARDA",NA,0,2020
+130000662155,"Leonardo Pericles Vieira Roque","Belo Horizonte","MG","Vice-prefeito","UP","Não Eleito","MASC.","PRETA",NA,0,2020
+130000665122,"Paula Aparecida Gomes","Belo Horizonte","MG","Vice-prefeito","PTC","Não Eleito","FEM.","BRANCA",NA,0,2020
+130000704117,"LUANA DE LIMA SOUZA","Belo Horizonte","MG","Vice-prefeito","PT","Não Eleito","FEM.","PRETA",NA,0,2020
+130000756878,"FUAD JORGE NOMAN FILHO","Belo Horizonte","MG","Vice-prefeito","PSD","Eleito","MASC.","BRANCA",NA,0,2020
+130000861190,"Kátia Almeida Vergilio Da Silva","Belo Horizonte","MG","Vice-prefeito","PCdoB","Não Eleito","FEM.","PRETA",NA,0,2020
+130000868278,"Juvenal Araújo Júnior","Belo Horizonte","MG","Vice-prefeito","PSDB","Não Eleito","MASC.","PRETA",NA,0,2020
+130000944001,"Sandra Almada Bini Das Neves","Belo Horizonte","MG","Vice-prefeito","SOLIDARIEDADE","Não Eleito","FEM.","BRANCA",NA,0,2020
+130001001427,"Marlei Rodrigues","Belo Horizonte","MG","Vice-prefeito","REPUBLICANOS","Não Eleito","FEM.","PARDA",NA,0,2020
+130001140595,"Leonardo Almeida Bortoletto","Belo Horizonte","MG","Vice-prefeito","DEM","Não Eleito","MASC.","BRANCA",NA,0,2020
+130001172846,"Firminia Maria Oliveira Rodrigues","Belo Horizonte","MG","Vice-prefeito","PSTU","Não Eleito","FEM.","PRETA",NA,0,2020
+130001180687,"Paula De Castro Maia","Belo Horizonte","MG","Vice-prefeito","PMB","Não Eleito","FEM.","BRANCA",NA,0,2020
+130001181052,"Silvanio Vilaça Pacheco","Belo Horizonte","MG","Vice-prefeito","PCO","Não Eleito","MASC.","BRANCA",NA,0,2020
+130001226854,"Mauro Marcelo Quintão","Belo Horizonte","MG","Vice-prefeito","PRTB","Não Eleito","MASC.","BRANCA",NA,0,2020
+130001250018,"Cláudia Araújo Romualdo","Belo Horizonte","MG","Vice-prefeito","PRTB","Nulo","FEM.","BRANCA",NA,0,2020
+130001252255,"Cláudia Araújo Romualdo","Belo Horizonte","MG","Vice-prefeito","PRTB","Nulo","FEM.","BRANCA",NA,0,2020
+130001252256,"BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA","Belo Horizonte","MG","Prefeito","PRTB","Nulo","MASC.","BRANCA",NA,0,2020
+130001181053,"Marilia Garcia Domingues","Belo Horizonte","MG","Prefeito","PCO","Não Eleito","FEM.","BRANCA",1000,330,2020
+130001180688,"EDMAR WASHINGTON XAVIER PEREIRA","Belo Horizonte","MG","Prefeito","PMB","Não Eleito","MASC.","BRANCA",25581,865,2020
+130001172845,"WANDERSON PAIVA ROCHA","Belo Horizonte","MG","Prefeito","PSTU","Não Eleito","MASC.","PRETA",36496,907,2020
+130001226853,"BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA","Belo Horizonte","MG","Prefeito","PRTB","Não Eleito","MASC.","BRANCA",416543.83,123215,2020
+130000861189,"Wadson Nathaniel Ribeiro","Belo Horizonte","MG","Prefeito","PCdoB","Não Eleito","MASC.","BRANCA",420732.21,2211,2020
+130000944000,"Wendel Cristiano Soares De Mesquita","Belo Horizonte","MG","Prefeito","SOLIDARIEDADE","Não Eleito","MASC.","BRANCA",666192,9266,2020
+130000658456,"Marcelo De Souza E Silva","Belo Horizonte","MG","Prefeito","PATRIOTA","Não Eleito","MASC.","BRANCA",732462.64,4105,2020
+130001001426,"Lafayette Luiz Doorgal De Andrada","Belo Horizonte","MG","Prefeito","REPUBLICANOS","Não Eleito","MASC.","BRANCA",838490,7327,2020
+130000662154,"Áurea Carolina De Freitas E Silva","Belo Horizonte","MG","Prefeito","PSOL","Não Eleito","FEM.","PARDA",1578124.47,103115,2020
+130000704118,"Nilmário De Miranda","Belo Horizonte","MG","Prefeito","PT","Não Eleito","MASC.","BRANCA",1911086.02,23331,2020
+130000665121,"Fabiano Lopes Ferreira","Belo Horizonte","MG","Prefeito","PROS","Não Eleito","MASC.","BRANCA",2128375,2517,2020
+130000639684,"Rodrigo Antônio De Paiva","Belo Horizonte","MG","Prefeito","NOVO","Não Eleito","MASC.","BRANCA",2233557.28,44977,2020
+130000868277,"LUISA CARDOSO BARRETO","Belo Horizonte","MG","Prefeito","PSDB","Não Eleito","FEM.","BRANCA",2296200,17161,2020
+130001140594,"João Vitor Xavier Faustino","Belo Horizonte","MG","Prefeito","CIDADANIA","Não Eleito","MASC.","PARDA",4058694.71,114130,2020
+130000756879,"Alexandre Kalil","Belo Horizonte","MG","Prefeito","PSD","Eleito","MASC.","BRANCA",5839466.67,784307,2020
+230000632386,"Lidiane Cavalcante Vanderlei De Menezes","Boa Vista","RR","Vice-prefeito","PSL","Não Eleito","FEM.","PARDA",NA,0,2020
+230000679862,"Edileusa Barbosa Gomes Lóz","Boa Vista","RR","Vice-prefeito","MDB","Nulo","FEM.","PARDA",NA,0,2020
+230000837841,"Overlan Lopes Alves","Boa Vista","RR","Vice-prefeito","PODE","Não Eleito","MASC.","PARDA",NA,0,2020
+230000838293,"Thiana Kelly Tataira Dos Santos","Boa Vista","RR","Vice-prefeito","PSOL","Não Eleito","FEM.","PARDA",NA,0,2020
+230000838418,"Alcione Aquino Correa","Boa Vista","RR","Vice-prefeito","PL","Não Eleito","FEM.","PARDA",NA,0,2020
+230000840535,"Lenir Rodrigues Santos","Boa Vista","RR","Vice-prefeito","SOLIDARIEDADE","2º Turno","FEM.","BRANCA",NA,0,2020
+230000840535,"Lenir Rodrigues Santos","Boa Vista","RR","Vice-prefeito","SOLIDARIEDADE","Não Eleito","FEM.","BRANCA",NA,0,2020
+230001060563,"WESLEY CARLOS THOMÉ","Boa Vista","RR","Vice-prefeito","PCdoB","Não Eleito","MASC.","PARDA",NA,0,2020
+230001060758,"Eduardo Henrique Do Vale Matias","Boa Vista","RR","Vice-prefeito","PDT","Não Eleito","MASC.","PARDA",NA,0,2020
+230001210886,"Lila Saldanha","Boa Vista","RR","Vice-prefeito","PCO","Não Eleito","FEM.","INDÍGENA",NA,0,2020
+230001221784,"José Haroldo Figueiredo Campos","Boa Vista","RR","Vice-prefeito","PSD","Não Eleito","MASC.","BRANCA",NA,0,2020
+230001248863,"Adriana Casselli De Abreu","Boa Vista","RR","Vice-prefeito","PMN","Não Eleito","FEM.","BRANCA",NA,0,2020
+230001275135,"Cassio Murilo Gomes","Boa Vista","RR","Vice-prefeito","MDB","2º Turno","MASC.","BRANCA",NA,0,2020
+230001275135,"Cassio Murilo Gomes","Boa Vista","RR","Vice-prefeito","MDB","Eleito","MASC.","BRANCA",NA,0,2020
+230001210885,"Wilson Roberto Ferreira Précoma","Boa Vista","RR","Prefeito","PCO","Não Eleito","MASC.","BRANCA",1000,0,2020
+230000838292,"Fábio Gonçalves De Almeida","Boa Vista","RR","Prefeito","PSOL","Não Eleito","MASC.","PRETA",42074.93,1130,2020
+230001248864,"Shaolyn Gomes Bezerra","Boa Vista","RR","Prefeito","PMN","Não Eleito","MASC.","BRANCA",70000,583,2020
+230001060562,"Linoberg Barbosa De Almeida","Boa Vista","RR","Prefeito","REDE","Não Eleito","MASC.","PRETA",277957.91,15775,2020
+230000837842,"Isamar Pessoa Ramalho","Boa Vista","RR","Prefeito","PODE","Não Eleito","MASC.","PARDA",530561.8,8303,2020
+230000838417,"Luciano De Souza Castro","Boa Vista","RR","Prefeito","PL","Não Eleito","MASC.","BRANCA",593480,4498,2020
+230001060757,"Gerlane Baccarin","Boa Vista","RR","Prefeito","PP","Não Eleito","FEM.","BRANCA",1064312.62,4966,2020
+230000840534,"JOSE OTACI BARROSO DO NASCIMENTO","Boa Vista","RR","Prefeito","SOLIDARIEDADE","2º Turno","MASC.","PARDA",1191540,36767,2020
+230000840534,"JOSE OTACI BARROSO DO NASCIMENTO","Boa Vista","RR","Prefeito","SOLIDARIEDADE","Não Eleito","MASC.","PARDA",1191540,36767,2020
+230001221785,"Shéridan Esterfany Oliveira","Boa Vista","RR","Prefeito","PSDB","Não Eleito","FEM.","BRANCA",1902512.56,14055,2020
+230000632387,"ANTONIO CARLOS NICOLETTI","Boa Vista","RR","Prefeito","PSL","Não Eleito","MASC.","BRANCA",2055000,13451,2020
+230000679861,"ARTHUR HENRIQUE BRANDÃO MACHADO","Boa Vista","RR","Prefeito","MDB","2º Turno","MASC.","PARDA",2351500,195217,2020
+230000679861,"ARTHUR HENRIQUE BRANDÃO MACHADO","Boa Vista","RR","Prefeito","MDB","Eleito","MASC.","PARDA",2351500,195217,2020
+120000641272,"Jose Carlos Ferreira Alvarenga","Campo Grande","MS","Vice-prefeito","PV","Não Eleito","MASC.","BRANCA",NA,0,2020
+120000645359,"Priscila De Souza Afonso Baggio","Campo Grande","MS","Vice-prefeito","NOVO","Não Eleito","FEM.","BRANCA",NA,0,2020
+120000645414,"Kelly Cristina Da Costa","Campo Grande","MS","Vice-prefeito","PDT","Não Eleito","FEM.","BRANCA",NA,0,2020
+120000675524,"Venicio Leite De Oliveira","Campo Grande","MS","Vice-prefeito","PP","Não Eleito","MASC.","BRANCA",NA,0,2020
+120000725278,"Eloisa Castro Berro","Campo Grande","MS","Vice-prefeito","PT","Não Eleito","FEM.","BRANCA",NA,0,2020
+120000850395,"Carla Liliana Gonçalves","Campo Grande","MS","Vice-prefeito","SOLIDARIEDADE","Não Eleito","FEM.","PARDA",NA,0,2020
+120000850645,"Juliana Zorzo Silva Miranda","Campo Grande","MS","Vice-prefeito","MDB","Não Eleito","FEM.","BRANCA",NA,0,2020
+120000859893,"Lilian Dos Santos Durães","Campo Grande","MS","Vice-prefeito","PSL","Nulo","FEM.","PARDA",NA,0,2020
+120000886950,"Andre Luis Sanches Salineiro","Campo Grande","MS","Vice-prefeito","AVANTE","Não Eleito","MASC.","BRANCA",NA,0,2020
+120001078116,"SAMUEL BELÉM GOMES","Campo Grande","MS","Vice-prefeito","PODE","Não Eleito","MASC.","PARDA",NA,0,2020
+120001082466,"VASTIR ELOY AMADO","Campo Grande","MS","Vice-prefeito","PSOL","Não Eleito","FEM.","INDÍGENA",NA,0,2020
+120001083150,"ADRIANE BARBOSA NOGUEIRA LOPES","Campo Grande","MS","Vice-prefeito","PATRIOTA","Eleito","FEM.","BRANCA",NA,0,2020
+120001151663,"Jayme De Magalhães Júnior","Campo Grande","MS","Vice-prefeito","PL","Não Eleito","MASC.","BRANCA",NA,0,2020
+120001152706,"DANIELA DE CÁSSIA DUARTE","Campo Grande","MS","Vice-prefeito","PROS","Não Eleito","FEM.","PARDA",NA,0,2020
+120001263634,"Carlos Martins Júnior","Campo Grande","MS","Vice-prefeito","PCO","Não Eleito","MASC.","PRETA",NA,0,2020
+120001264155,"Rhiad Abdulahad","Campo Grande","MS","Vice-prefeito","PSL","Não Eleito","MASC.","BRANCA",NA,0,2020
+120001082467,"Cristiane Pinheiro Duarte","Campo Grande","MS","Prefeito","PSOL","Não Eleito","FEM.","BRANCA",375,4621,2020
+120001263635,"THIAGO DE CARVALHO ASSAD","Campo Grande","MS","Prefeito","PCO","Não Eleito","MASC.","BRANCA",1000,0,2020
+120000859892,"LOESTER CARLOS GOMES DE SOUZA","Campo Grande","MS","Prefeito","PSL","Nulo","MASC.","PARDA",55000,0,2020
+120001151664,"João Henrique Miranda Soares Catan","Campo Grande","MS","Prefeito","PL","Não Eleito","MASC.","BRANCA",77237.85,10123,2020
+120000645360,"Luis Augusto Lima Scarpanti","Campo Grande","MS","Prefeito","NOVO","Não Eleito","MASC.","BRANCA",92366.53,4811,2020
+120001078115,"Sidnéia Catarina Tobias","Campo Grande","MS","Prefeito","PODE","Não Eleito","FEM.","BRANCA",148850,19103,2020
+120000641273,"MARCELO DE MOURA BLUMA","Campo Grande","MS","Prefeito","PV","Não Eleito","MASC.","PARDA",281772,2657,2020
+120000886949,"Sergio Fernando Raimundo Harfouche","Campo Grande","MS","Prefeito","AVANTE","Não Eleito","MASC.","BRANCA",293625.76,0,2020
+120001152707,"Paulo Cesar De Matos Oliveira","Campo Grande","MS","Prefeito","PSC","Não Eleito","MASC.","BRANCA",481805.46,1884,2020
+120000725277,"Pedro Cesar Kemp Gonçalves","Campo Grande","MS","Prefeito","PT","Não Eleito","MASC.","BRANCA",673300,34546,2020
+120000675525,"Esacheu Cipriano Nascimento","Campo Grande","MS","Prefeito","PP","Não Eleito","MASC.","BRANCA",706950,10170,2020
+120001264154,"Vinicius De Siqueira","Campo Grande","MS","Prefeito","PSL","Não Eleito","MASC.","BRANCA",787916,34066,2020
+120000850646,"Marcio Fernandes","Campo Grande","MS","Prefeito","MDB","Não Eleito","MASC.","BRANCA",1284491.42,12522,2020
+120001083149,"MARCOS MARCELLO TRAD","Campo Grande","MS","Prefeito","PSD","Eleito","MASC.","BRANCA",1484067.53,218418,2020
+120000850396,"Ednei Marcelo Miglioli","Campo Grande","MS","Prefeito","SOLIDARIEDADE","Não Eleito","MASC.","BRANCA",1531650.66,7899,2020
+120000645413,"Dagoberto Nogueira Filho","Campo Grande","MS","Prefeito","PDT","Não Eleito","MASC.","BRANCA",1854532.6,6507,2020
+110000637983,"Alvani Manoel Laurindo","Cuiabá","MT","Vice-prefeito","NOVO","Não Eleito","MASC.","BRANCA",NA,0,2020
+110000825566,"Felipe Tanahashi Alves","Cuiabá","MT","Vice-prefeito","CIDADANIA","2º Turno","MASC.","BRANCA",NA,0,2020
+110000825566,"Felipe Tanahashi Alves","Cuiabá","MT","Vice-prefeito","CIDADANIA","Não Eleito","MASC.","BRANCA",NA,0,2020
+110000825828,"Luis Fabrício Cirillo De Carvalho","Cuiabá","MT","Vice-prefeito","PDT","Não Eleito","MASC.","BRANCA",NA,0,2020
+110000941604,"Luiz Antonio De Carvalho","Cuiabá","MT","Vice-prefeito","PRTB","Nulo","MASC.","BRANCA",NA,0,2020
+110001068601,"Itei Silva Daltro","Cuiabá","MT","Vice-prefeito","PSOL","Não Eleito","FEM.","PARDA",NA,0,2020
+110001198922,"Vera Lucia Bertoline","Cuiabá","MT","Vice-prefeito","PT","Não Eleito","FEM.","BRANCA",NA,0,2020
+110001200219,"MARCELO EDUARDO BUSSIKI RONDON","Cuiabá","MT","Vice-prefeito","DEM","Não Eleito","MASC.","SEM INFORMAÇÃO",NA,0,2020
+110001263133,"José Roberto Stopa","Cuiabá","MT","Vice-prefeito","PV","2º Turno","MASC.","BRANCA",NA,0,2020
+110001263133,"José Roberto Stopa","Cuiabá","MT","Vice-prefeito","PV","Eleito","MASC.","BRANCA",NA,0,2020
+110001273426,"Vinicius Eduardo Lima Pires De Miranda","Cuiabá","MT","Vice-prefeito","PSL","Não Eleito","MASC.","BRANCA",NA,0,2020
+110000637982,"Paulo Henrique Da Silva Grando","Cuiabá","MT","Prefeito","NOVO","Não Eleito","MASC.","BRANCA",69620.13,2815,2020
+110001068602,"GILBERTO LOPES FILHO","Cuiabá","MT","Prefeito","PSOL","Não Eleito","MASC.","BRANCA",73496.2,1216,2020
+110000941605,"Aécio Guerino De Souza Rodrigues","Cuiabá","MT","Prefeito","PSL","Não Eleito","MASC.","BRANCA",376500,5659,2020
+110001198921,"JULIER SEBASTIÃO DA SILVA","Cuiabá","MT","Prefeito","PT","Não Eleito","MASC.","PARDA",537500,8409,2020
+110001200218,"Roberto França Auad","Cuiabá","MT","Prefeito","PATRIOTA","Não Eleito","MASC.","BRANCA",880100,25523,2020
+110000825567,"ABILIO JACQUES BRUNINI MOUMER","Cuiabá","MT","Prefeito","PODE","2º Turno","MASC.","BRANCA",1022440.71,220408,2020
+110000825567,"ABILIO JACQUES BRUNINI MOUMER","Cuiabá","MT","Prefeito","PODE","Não Eleito","MASC.","BRANCA",1022440.71,220408,2020
+110000825827,"Gisela Simona Viana De Souza","Cuiabá","MT","Prefeito","PROS","Não Eleito","FEM.","PRETA",1652181,52191,2020
+110001046015,"Emanuel Pinheiro","Cuiabá","MT","Prefeito","MDB","2º Turno","MASC.","BRANCA",3353210.2,218238,2020
+110001046015,"Emanuel Pinheiro","Cuiabá","MT","Prefeito","MDB","Eleito","MASC.","BRANCA",3353210.2,218238,2020
+160000633985,"Geovana Conti De Sá","Curitiba","PR","Vice-prefeito","NOVO","Não Eleito","FEM.","PRETA",NA,0,2020
+160000657205,"EDUARDO PIMENTEL SLAVIERO","Curitiba","PR","Vice-prefeito","PSD","Eleito","MASC.","BRANCA",NA,0,2020
+160000734610,"SAMUEL DE MATTOS FIGUEIREDO","Curitiba","PR","Vice-prefeito","PSTU","Não Eleito","MASC.","BRANCA",NA,0,2020
+160000788670,"Rolf Koerner Junior","Curitiba","PR","Vice-prefeito","PODE","Não Eleito","MASC.","BRANCA",NA,0,2020
+160000794346,"Jilcy Mara Joly Rink","Curitiba","PR","Vice-prefeito","PL","Não Eleito","FEM.","BRANCA",NA,0,2020
+160000833799,"Sheila Marize Toledo Pereira","Curitiba","PR","Vice-prefeito","MDB","Não Eleito","FEM.","BRANCA",NA,0,2020
+160000836378,"Odemyr Soraia Dill Pozo","Curitiba","PR","Vice-prefeito","PV","Não Eleito","FEM.","BRANCA",NA,0,2020
+160000836380,"Giana De Marco Vianna Da Silva","Curitiba","PR","Vice-prefeito","PSOL","Não Eleito","FEM.","BRANCA",NA,0,2020
+160000836829,"Orivaldo Soler Peres","Curitiba","PR","Vice-prefeito","PTC","Não Eleito","MASC.","BRANCA",NA,0,2020
+160000838385,"Michel Fonseca Ferreira","Curitiba","PR","Vice-prefeito","REDE","Não Eleito","MASC.","BRANCA",NA,0,2020
+160001009460,"Leticia Chun Pei Pan","Curitiba","PR","Vice-prefeito","PSL","Não Eleito","FEM.","AMARELA",NA,0,2020
+160001110496,"JOSE FERREIRA LOPES","Curitiba","PR","Vice-prefeito","PCdoB","Não Eleito","MASC.","BRANCA",NA,0,2020
+160001133315,"Ana Lucia Leite Moro Vieira","Curitiba","PR","Vice-prefeito","PDT","Não Eleito","FEM.","BRANCA",NA,0,2020
+160001146208,"Feris Eduardo Boabaid","Curitiba","PR","Vice-prefeito","PCO","Não Eleito","MASC.","BRANCA",NA,0,2020
+160001202015,"Pedro Filipe Cruz Cardoso De Andrade","Curitiba","PR","Vice-prefeito","PT","Não Eleito","MASC.","BRANCA",NA,0,2020
+160000727464,"Romulo Quenehen","Curitiba","PR","Vice-prefeito","AVANTE","Não Eleito","MASC.","PARDA",0,0,2020
+160001146209,"Diogo Tadao Hara Furtado","Curitiba","PR","Prefeito","PCO","Não Eleito","MASC.","BRANCA",1000,0,2020
+160000836828,"José Maria Boni","Curitiba","PR","Prefeito","PTC","Não Eleito","MASC.","BRANCA",6738,3509,2020
+160000734609,"Samara Garratini","Curitiba","PR","Prefeito","PSTU","Não Eleito","FEM.","BRANCA",12380,632,2020
+160000836377,"Renato Mocellin","Curitiba","PR","Prefeito","PV","Não Eleito","MASC.","BRANCA",50566.16,6305,2020
+160000836379,"Letícia Lanz De Souza","Curitiba","PR","Prefeito","PSOL","Não Eleito","FEM.","BRANCA",66228.5,3564,2020
+160000838384,"Eloy Fassi Casagrande Junior","Curitiba","PR","Prefeito","REDE","Não Eleito","MASC.","BRANCA",66533.58,1021,2020
+160001110495,"Camila Cristina Lanes Da Silva","Curitiba","PR","Prefeito","PCdoB","Não Eleito","FEM.","BRANCA",152431.61,1881,2020
+160000727465,"MARISA LOBO FRANCO FERREIRA ALVES","Curitiba","PR","Prefeito","AVANTE","Não Eleito","FEM.","BRANCA",348349.98,18547,2020
+160001202014,"Paulo Ricardo Opuszka","Curitiba","PR","Prefeito","PT","Não Eleito","MASC.","BRANCA",923972.76,20537,2020
+160001133316,"JORGE GOMES DE OLIVEIRA BRAND","Curitiba","PR","Prefeito","PDT","Não Eleito","MASC.","BRANCA",1313472.14,110977,2020
+160000833798,"Joao Jose De Arruda Junior","Curitiba","PR","Prefeito","MDB","Não Eleito","MASC.","BRANCA",1558750.34,21833,2020
+160000633984,"João Guilherme Oliveira De Moraes","Curitiba","PR","Prefeito","NOVO","Não Eleito","MASC.","BRANCA",1587735.16,40505,2020
+160000788669,"Caroline Arns De Santa Cruz Arruda","Curitiba","PR","Prefeito","PODE","Não Eleito","FEM.","BRANCA",1632700,22360,2020
+160000794345,"Christiane De Souza Yared","Curitiba","PR","Prefeito","PL","Não Eleito","FEM.","BRANCA",3041200,32677,2020
+160000657203,"Rafael Valdomiro Greca De Macedo","Curitiba","PR","Prefeito","DEM","Eleito","MASC.","BRANCA",3791400,499821,2020
+160001009459,"Fernando Destito Francischini","Curitiba","PR","Prefeito","PSL","Não Eleito","MASC.","BRANCA",5635884.33,52340,2020
+240000650389,"Luiz Barboza Neto","Florianópolis","SC","Vice-prefeito","NOVO","Não Eleito","MASC.","BRANCA",NA,0,2020
+240000685803,"Edgar Lopes Da Costa Neto","Florianópolis","SC","Vice-prefeito","PATRIOTA","Nulo","MASC.","BRANCA",NA,0,2020
+240000890237,"Eduardo Nobuyuki Usuy","Florianópolis","SC","Vice-prefeito","PL","Não Eleito","MASC.","BRANCA",NA,0,2020
+240000990259,"Diogo Leal Pauletto","Florianópolis","SC","Vice-prefeito","PSTU","Não Eleito","MASC.","PRETA",NA,0,2020
+240000990586,"Guaraci Edson Fagundes","Florianópolis","SC","Vice-prefeito","PV","Não Eleito","MASC.","BRANCA",NA,0,2020
+240000991169,"Leticia Maduell De Mattos","Florianópolis","SC","Vice-prefeito","PRTB","Não Eleito","FEM.","BRANCA",NA,0,2020
+240001095966,"IVAN RUBENS DÁRIO","Florianópolis","SC","Vice-prefeito","PCO","Não Eleito","MASC.","BRANCA",NA,0,2020
+240001098524,"Lino Fernando Bragança Peres","Florianópolis","SC","Vice-prefeito","PT","Não Eleito","MASC.","PRETA",NA,0,2020
+240001202987,"JOÃO BATISTA NUNES","Florianópolis","SC","Vice-prefeito","PSDB","Não Eleito","MASC.","BRANCA",NA,0,2020
+240001264323,"TOPAZIO SILVEIRA NETO","Florianópolis","SC","Vice-prefeito","REPUBLICANOS","Eleito","MASC.","BRANCA",NA,0,2020
+240001275291,"Luis Paulo Severo De Oliveira","Florianópolis","SC","Vice-prefeito","AVANTE","Não Eleito","MASC.","BRANCA",NA,0,2020
+240001095965,"JAIR FERNANDES DE AGUIAR RAMOS","Florianópolis","SC","Prefeito","PCO","Não Eleito","MASC.","BRANCA",1000,98,2020
+240000991168,"Alexander Alves Pereira","Florianópolis","SC","Prefeito","PRTB","Não Eleito","MASC.","BRANCA",10361.28,6982,2020
+240000990260,"Gabriela Santetti Celestino","Florianópolis","SC","Prefeito","PSTU","Não Eleito","FEM.","BRANCA",12120,373,2020
+240000990585,"Ricardo Camargo Vieira","Florianópolis","SC","Prefeito","SOLIDARIEDADE","Não Eleito","MASC.","BRANCA",70000,1201,2020
+240000650388,"Orlando Celso Da Silva Neto","Florianópolis","SC","Prefeito","NOVO","Não Eleito","MASC.","BRANCA",81502.15,6195,2020
+240000685804,"Helio Cesar Bairros","Florianópolis","SC","Prefeito","PATRIOTA","Não Eleito","MASC.","BRANCA",222380,1142,2020
+240000890238,"PEDRO DE ASSIS SILVESTRE","Florianópolis","SC","Prefeito","PL","Não Eleito","MASC.","BRANCA",872991,33529,2020
+240001098525,"Elson Manoel Pereira","Florianópolis","SC","Prefeito","PSOL","Não Eleito","MASC.","BRANCA",924606.09,42778,2020
+240001202988,"Angela Regina Heinzen Amin Helou","Florianópolis","SC","Prefeito","PP","Não Eleito","FEM.","BRANCA",2808891.36,17515,2020
+240000837409,"Gean Marques Loureiro","Florianópolis","SC","Prefeito","DEM","Eleito","MASC.","BRANCA",2848390.51,126144,2020
+60000653317,"KAMILA CARDOSO DE SOUZA RIBEIRO","Fortaleza","CE","Vice-prefeito","PROS","2º Turno","FEM.","PARDA",NA,0,2020
+60000653317,"KAMILA CARDOSO DE SOUZA RIBEIRO","Fortaleza","CE","Vice-prefeito","PROS","Não Eleito","FEM.","PARDA",NA,0,2020
+60000665007,"Roberlene Correa Nogueira Rodrigues","Fortaleza","CE","Vice-prefeito","PATRIOTA","Não Eleito","FEM.","PARDA",NA,0,2020
+60000684212,"JOSÉ ELCIO BATISTA","Fortaleza","CE","Vice-prefeito","PSB","2º Turno","MASC.","BRANCA",NA,0,2020
+60000684212,"JOSÉ ELCIO BATISTA","Fortaleza","CE","Vice-prefeito","PSB","Eleito","MASC.","BRANCA",NA,0,2020
+60000717317,"Serley De Sousa Leal","Fortaleza","CE","Vice-prefeito","UP","Não Eleito","MASC.","PRETA",NA,0,2020
+60000717404,"Francisco Galba Viana","Fortaleza","CE","Vice-prefeito","PV","Não Eleito","MASC.","PARDA",NA,0,2020
+60000717997,"Raquel Lima De Souza","Fortaleza","CE","Vice-prefeito","PCB","Não Eleito","FEM.","PRETA",NA,0,2020
+60000718164,"Laurice Sinara Moura Maia","Fortaleza","CE","Vice-prefeito","PSL","Não Eleito","FEM.","PARDA",NA,0,2020
+60000737868,"Helena Serra Azul Monteiro","Fortaleza","CE","Vice-prefeito","PCdoB","Não Eleito","FEM.","BRANCA",NA,0,2020
+60000800177,"Walter Lima Frota Cavalcante","Fortaleza","CE","Vice-prefeito","MDB","Não Eleito","MASC.","PARDA",NA,0,2020
+60000909406,"Vladyson Da Silva Viana","Fortaleza","CE","Vice-prefeito","PT","Não Eleito","MASC.","BRANCA",NA,0,2020
+60001165490,"Thais Helena Alves Ferreira Da Silva","Fortaleza","CE","Vice-prefeito","PCO","Não Eleito","FEM.","PARDA",NA,0,2020
+60001165491,"José Loureto Barroso Souza","Fortaleza","CE","Prefeito","PCO","Não Eleito","MASC.","PARDA",0,0,2020
+60000717316,"Paula Virginia De Oliveira Nunes Colares","Fortaleza","CE","Prefeito","UP","Não Eleito","FEM.","BRANCA",37889,893,2020
+60000717998,"Renato Roseno De Oliveira","Fortaleza","CE","Prefeito","PSOL","Não Eleito","MASC.","BRANCA",258130.92,34346,2020
+60000737869,"Anizio Santos De Melo","Fortaleza","CE","Prefeito","PCdoB","Não Eleito","MASC.","PARDA",319464.49,2264,2020
+60000665008,"Samuel Moraes Braga","Fortaleza","CE","Prefeito","PATRIOTA","Não Eleito","MASC.","BRANCA",360000,1749,2020
+60000717405,"Celio Studart Barbosa","Fortaleza","CE","Prefeito","PV","Não Eleito","MASC.","BRANCA",732518.8,45369,2020
+60000800178,"Heitor Correia Férrer","Fortaleza","CE","Prefeito","SOLIDARIEDADE","Não Eleito","MASC.","PARDA",762600,63199,2020
+60000909405,"Luizianne De Oliveira Lins","Fortaleza","CE","Prefeito","PT","Não Eleito","FEM.","BRANCA",2625600.74,227470,2020
+60000718165,"Heitor Rodrigo Pereira Freire","Fortaleza","CE","Prefeito","PSL","Não Eleito","MASC.","PARDA",4091698.75,21210,2020
+60000653316,"WAGNER SOUSA GOMES","Fortaleza","CE","Prefeito","PROS","2º Turno","MASC.","BRANCA",4712647.88,1051695,2020
+60000653316,"WAGNER SOUSA GOMES","Fortaleza","CE","Prefeito","PROS","Não Eleito","MASC.","BRANCA",4712647.88,1051695,2020
+60000684211,"José Sarto Nogueira Moreira","Fortaleza","CE","Prefeito","PDT","2º Turno","MASC.","BRANCA",9860800,1126274,2020
+60000684211,"José Sarto Nogueira Moreira","Fortaleza","CE","Prefeito","PDT","Eleito","MASC.","BRANCA",9860800,1126274,2020
+90000746322,"Luiz Felipe De Aguiar Teixeira","Goiânia","GO","Vice-prefeito","PSOL","Não Eleito","MASC.","BRANCA",NA,0,2020
+90000796385,"Rosemary Freitas Valle","Goiânia","GO","Vice-prefeito","PSDB","Não Eleito","FEM.","PARDA",NA,0,2020
+90000818282,"Rosirene Pereira Tavares Castelo","Goiânia","GO","Vice-prefeito","PSL","Não Eleito","FEM.","BRANCA",NA,0,2020
+90000834815,"Pedro Wilson Guimarâes","Goiânia","GO","Vice-prefeito","PT","Não Eleito","MASC.","BRANCA",NA,0,2020
+90000834818,"Allyne Marinho Meireles","Goiânia","GO","Vice-prefeito","UP","Não Eleito","FEM.","BRANCA",NA,0,2020
+90000867892,"Genival Naves De Oliveira","Goiânia","GO","Vice-prefeito","PDT","Não Eleito","MASC.","PARDA",NA,0,2020
+90000916492,"Alexandre Silva De Magalhaes","Goiânia","GO","Vice-prefeito","DC","Não Eleito","MASC.","BRANCA",NA,0,2020
+90001009824,"ROGERIO OLIVEIRA DA CRUZ","Goiânia","GO","Vice-prefeito","REPUBLICANOS","2º Turno","MASC.","PRETA",NA,0,2020
+90001009824,"ROGERIO OLIVEIRA DA CRUZ","Goiânia","GO","Vice-prefeito","REPUBLICANOS","Eleito","MASC.","PRETA",NA,0,2020
+90001107171,"Carlos Alves Moreira","Goiânia","GO","Vice-prefeito","PV","Não Eleito","MASC.","PARDA",NA,0,2020
+90001219681,"Guilherme Martes Martins","Goiânia","GO","Vice-prefeito","PCB","Nulo","MASC.","BRANCA",NA,0,2020
+90001220286,"Tales De Castro Martins","Goiânia","GO","Vice-prefeito","PCO","Não Eleito","MASC.","BRANCA",NA,0,2020
+90001220915,"Wilder Pedro De Morais","Goiânia","GO","Vice-prefeito","PSC","2º Turno","MASC.","PARDA",NA,0,2020
+90001220915,"Wilder Pedro De Morais","Goiânia","GO","Vice-prefeito","PSC","Não Eleito","MASC.","PARDA",NA,0,2020
+90001221086,"Jose Augusto De Oliveira Lima","Goiânia","GO","Vice-prefeito","SOLIDARIEDADE","Não Eleito","MASC.","PARDA",NA,0,2020
+90001221545,"MARCELO RODRIGUES SILVA DE FREITAS","Goiânia","GO","Vice-prefeito","PRTB","Não Eleito","MASC.","BRANCA",NA,0,2020
+90001249315,"Julimaria Dos Santos Sousa","Goiânia","GO","Vice-prefeito","CIDADANIA","Não Eleito","FEM.","PRETA",NA,0,2020
+90001260411,"Luiz Rosa Santos","Goiânia","GO","Vice-prefeito","PL","Nulo","Não Divulgável","Não Divulgável",NA,0,2020
+90001272874,"Paulo Winicius Teixeira De Paula","Goiânia","GO","Vice-prefeito","PCB","Não Eleito","MASC.","BRANCA",NA,0,2020
+90001278823,"Sadala Jorge Jarmach","Goiânia","GO","Vice-prefeito","PL","Não Eleito","MASC.","BRANCA",NA,0,2020
+90001220285,"Vinícius Gomes Da Paixão","Goiânia","GO","Prefeito","PCO","Não Eleito","MASC.","PARDA",1000,0,2020
+90000834817,"Fabio Antonio De Oliveira Junior","Goiânia","GO","Prefeito","UP","Não Eleito","MASC.","PARDA",10623.55,1052,2020
+90000916491,"Gustavo Gayer Machado De Araujo","Goiânia","GO","Prefeito","DC","Não Eleito","MASC.","PARDA",31805,45928,2020
+90000746323,"HEMANUELLE DI LARA SIQUEIRA JACOB","Goiânia","GO","Prefeito","PSOL","Não Eleito","FEM.","PRETA",87809.44,4639,2020
+90001219680,"Antônio Vieira Neto","Goiânia","GO","Prefeito","PCB","Não Eleito","MASC.","BRANCA",109500,344,2020
+90001249511,"Cristina Lopes Afonso","Goiânia","GO","Prefeito","PL","Não Eleito","FEM.","BRANCA",138884,0,2020
+90001221087,"ALYSSON FRANCISCO DE LIMA","Goiânia","GO","Prefeito","SOLIDARIEDADE","Não Eleito","MASC.","BRANCA",201781,16644,2020
+90001107170,"Cristiano De Moraes Cunha","Goiânia","GO","Prefeito","PV","Não Eleito","MASC.","BRANCA",250400,1364,2020
+90001249314,"Virmondes Borges Cruvinel Filho","Goiânia","GO","Prefeito","CIDADANIA","Não Eleito","MASC.","PARDA",295333,9845,2020
+90000818281,"Junio Alves Araujo","Goiânia","GO","Prefeito","PSL","Não Eleito","MASC.","BRANCA",602146.6,20395,2020
+90001221546,"Samuel Guilsimar Almeida","Goiânia","GO","Prefeito","PROS","Não Eleito","MASC.","BRANCA",766978,7383,2020
+90000867893,"Elias Vaz De Andrade","Goiânia","GO","Prefeito","PSB","Não Eleito","MASC.","BRANCA",913899,24626,2020
+90000834814,"ADRIANA SAUTHIER ACCORSI","Goiânia","GO","Prefeito","PT","Não Eleito","FEM.","BRANCA",1000248.7,80715,2020
+90000796384,"Talles Alves Barreto","Goiânia","GO","Prefeito","PSDB","Não Eleito","MASC.","PARDA",1196260,5689,2020
+90001009823,"Luiz Alberto Maguito Vilela","Goiânia","GO","Prefeito","MDB","2º Turno","MASC.","BRANCA",1569881.08,494691,2020
+90001009823,"Luiz Alberto Maguito Vilela","Goiânia","GO","Prefeito","MDB","Eleito","MASC.","BRANCA",1569881.08,494691,2020
+90001220914,"VANDERLAN VIEIRA CARDOSO","Goiânia","GO","Prefeito","PSD","2º Turno","MASC.","PARDA",2751000,398775,2020
+90001220914,"VANDERLAN VIEIRA CARDOSO","Goiânia","GO","Prefeito","PSD","Não Eleito","MASC.","PARDA",2751000,398775,2020
+150000649214,"Marcio Roberto Carvalho De Paula","João Pessoa","PB","Vice-prefeito","PSOL","Não Eleito","MASC.","PRETA",NA,0,2020
+150000664516,"Percival Henriques De Souza Neto","João Pessoa","PB","Vice-prefeito","PCdoB","Não Eleito","MASC.","BRANCA",NA,0,2020
+150000676095,"José De Paiva Gadelha Neto","João Pessoa","PB","Vice-prefeito","PSC","Não Eleito","MASC.","BRANCA",NA,0,2020
+150000719201,"Eduardo De Morais Milanez","João Pessoa","PB","Vice-prefeito","MDB","2º Turno","MASC.","PARDA",NA,0,2020
+150000719201,"Eduardo De Morais Milanez","João Pessoa","PB","Vice-prefeito","MDB","Não Eleito","MASC.","PARDA",NA,0,2020
+150000719449,"Ricardo Da Costa Ramalho","João Pessoa","PB","Vice-prefeito","DEM","Não Eleito","MASC.","BRANCA",NA,0,2020
+150000719673,"Carlisson Djanylo Da Fonseca Figueiredo","João Pessoa","PB","Vice-prefeito","PSL","Não Eleito","MASC.","PARDA",NA,0,2020
+150000760164,"Leila De Cássia Tavares Fonseca","João Pessoa","PB","Vice-prefeito","PATRIOTA","Não Eleito","FEM.","BRANCA",NA,0,2020
+150000817671,"Lissandro Matias Saraiva","João Pessoa","PB","Vice-prefeito","PSTU","Não Eleito","MASC.","PRETA",NA,0,2020
+150000916497,"ANTONIO BARBOSA FILHO","João Pessoa","PB","Vice-prefeito","PT","Nulo","MASC.","PARDA",NA,0,2020
+150000937147,"JOÃO BATISTA DOMINGOS","João Pessoa","PB","Vice-prefeito","UP","Não Eleito","MASC.","PARDA",NA,0,2020
+150000976694,"LEOPOLDO DE ARAUJO BEZERRA CAVALCANTI","João Pessoa","PB","Vice-prefeito","CIDADANIA","2º Turno","MASC.","PARDA",NA,0,2020
+150000976694,"LEOPOLDO DE ARAUJO BEZERRA CAVALCANTI","João Pessoa","PB","Vice-prefeito","CIDADANIA","Eleito","MASC.","PARDA",NA,0,2020
+150000979944,"Mariana Costa Feliciano","João Pessoa","PB","Vice-prefeito","PDT","Não Eleito","FEM.","PARDA",NA,0,2020
+150001172015,"Filipe José Cavalcanti Leite","João Pessoa","PB","Vice-prefeito","REDE","Não Eleito","MASC.","PARDA",NA,0,2020
+150001172357,"Mauricio Almeida De Assis Filho","João Pessoa","PB","Vice-prefeito","PCO","Não Eleito","MASC.","BRANCA",NA,0,2020
+150001265922,"Paula Frassinete Lins Duarte","João Pessoa","PB","Vice-prefeito","PSB","Não Eleito","FEM.","PRETA",NA,0,2020
+150000649213,"Pablo Honorato Nascimento","João Pessoa","PB","Prefeito","PSOL","Nulo","MASC.","PRETA",0,0,2020
+150001172358,"CAMILO SOBREIRA DUARTE FILHO","João Pessoa","PB","Prefeito","PCO","Não Eleito","MASC.","BRANCA",1000,82,2020
+150000817670,"Severina Dos Ramos Silva Dantas","João Pessoa","PB","Prefeito","PSTU","Não Eleito","FEM.","PRETA",7820,345,2020
+150000937146,"Rafael Freire Santana","João Pessoa","PB","Prefeito","UP","Não Eleito","MASC.","PARDA",23225,865,2020
+150001265493,"Italo De Oliveira Guedes","João Pessoa","PB","Prefeito","PSOL","Não Eleito","MASC.","BRANCA",45789.15,2403,2020
+150001172016,"Carlos Antônio Araújo Monteiro","João Pessoa","PB","Prefeito","REDE","Não Eleito","MASC.","BRANCA",98050,949,2020
+150000664515,"Anisio Soares Maia","João Pessoa","PB","Prefeito","PT","Não Eleito","MASC.","BRANCA",240109.14,5431,2020
+150000760163,"WALLBER VIRGOLINO DA SILVA FERREIRA","João Pessoa","PB","Prefeito","PATRIOTA","Não Eleito","MASC.","PARDA",627210.08,50801,2020
+150000719450,"RAONI BARRETO MENDES","João Pessoa","PB","Prefeito","DEM","Não Eleito","MASC.","PARDA",1024700,15582,2020
+150000979945,"Edilma Da Costa Freire","João Pessoa","PB","Prefeito","PV","Não Eleito","FEM.","PARDA",1408866.55,47157,2020
+150000719674,"JOÃO ALMEIDA DE CARVALHO JUNIOR","João Pessoa","PB","Prefeito","SOLIDARIEDADE","Não Eleito","MASC.","PARDA",1483330,6312,2020
+150000676096,"RUY MANUEL CARNEIRO BARBOSA DE AÇA BELCHIOR","João Pessoa","PB","Prefeito","PSDB","Não Eleito","MASC.","BRANCA",1490896.53,59730,2020
+150000916498,"Ricardo Vieira Coutinho","João Pessoa","PB","Prefeito","PSB","Não Eleito","MASC.","BRANCA",1616997.17,38969,2020
+150000719200,"NILVAN FERREIRA DO NASCIMENTO","João Pessoa","PB","Prefeito","MDB","2º Turno","MASC.","PRETA",1808450,223645,2020
+150000719200,"NILVAN FERREIRA DO NASCIMENTO","João Pessoa","PB","Prefeito","MDB","Não Eleito","MASC.","PRETA",1808450,223645,2020
+150000976695,"CICERO DE LUCENA FILHO","João Pessoa","PB","Prefeito","PP","2º Turno","MASC.","PARDA",2894067.98,260665,2020
+150000976695,"CICERO DE LUCENA FILHO","João Pessoa","PB","Prefeito","PP","Eleito","MASC.","PARDA",2894067.98,260665,2020
+30000640528,"Lindemberg Sousa Da Silva","Macapá","AP","Vice-prefeito","PRTB","Não Eleito","MASC.","PARDA",NA,0,2020
+30000676678,"Silvana Vedovelli","Macapá","AP","Vice-prefeito","AVANTE","2º Turno","FEM.","BRANCA",NA,0,2020
+30000676678,"Silvana Vedovelli","Macapá","AP","Vice-prefeito","AVANTE","Não Eleito","FEM.","BRANCA",NA,0,2020
+30000680373,"JAIRO PALHETA DA SILVA MARQUES","Macapá","AP","Vice-prefeito","PSTU","Não Eleito","MASC.","PARDA",NA,0,2020
+30000747582,"Monica Penha Ferreira Dias","Macapá","AP","Vice-prefeito","MDB","2º Turno","FEM.","BRANCA",NA,0,2020
+30000747582,"Monica Penha Ferreira Dias","Macapá","AP","Vice-prefeito","MDB","Eleito","FEM.","BRANCA",NA,0,2020
+30000819139,"Moises Da Silva Amaral","Macapá","AP","Vice-prefeito","PTC","Não Eleito","MASC.","PARDA",NA,0,2020
+30001034734,"Rubem Bermeguy","Macapá","AP","Vice-prefeito","REDE","Não Eleito","MASC.","BRANCA",NA,0,2020
+30001084911,"Geovane Grangeiro Da Silva","Macapá","AP","Vice-prefeito","PT","Não Eleito","MASC.","BRANCA",NA,0,2020
+30001134682,"Aristides Da Silva Lopes","Macapá","AP","Vice-prefeito","PATRIOTA","Não Eleito","MASC.","PARDA",NA,0,2020
+30001204908,"Juraci Picanço De Almeida","Macapá","AP","Vice-prefeito","PODE","Não Eleito","MASC.","PRETA",NA,0,2020
+30001233941,"LORENA FONSECA QUINTAS","Macapá","AP","Vice-prefeito","PCdoB","Não Eleito","FEM.","BRANCA",NA,0,2020
+30000819140,"Haroldo Iram Gomes Da Silva","Macapá","AP","Prefeito","PTC","Não Eleito","MASC.","PARDA",3496.7,4022,2020
+30000680372,"Gianfranco Gusmão De Azevedo","Macapá","AP","Prefeito","PSTU","Não Eleito","MASC.","PARDA",14580,1243,2020
+30000640527,"Antonio Cirilo Fernandes Borges","Macapá","AP","Prefeito","PRTB","Não Eleito","MASC.","PRETA",27125.9,23588,2020
+30001233942,"PAULO CESAR LEMOS DE OLIVEIRA","Macapá","AP","Prefeito","PSOL","Não Eleito","MASC.","BRANCA",273795.64,7998,2020
+30001084910,"Marcos Roberto Marques Da Silva","Macapá","AP","Prefeito","PT","Não Eleito","MASC.","BRANCA",515000,3075,2020
+30001134683,"Guaracy Batista Da Silveira Júnior","Macapá","AP","Prefeito","PSL","Não Eleito","MASC.","PARDA",712770.55,0,2020
+30000747583,"ANTONIO PAULO DE OLIVEIRA FURLAN","Macapá","AP","Prefeito","CIDADANIA","2º Turno","MASC.","BRANCA",1121351.75,133460,2020
+30000747583,"ANTONIO PAULO DE OLIVEIRA FURLAN","Macapá","AP","Prefeito","CIDADANIA","Eleito","MASC.","BRANCA",1121351.75,133460,2020
+30001034733,"Joao Alberto Rodrigues Capiberibe","Macapá","AP","Prefeito","PSB","Não Eleito","MASC.","PARDA",1341280.74,30160,2020
+30001204907,"PATRICIA LIMA FERRAZ","Macapá","AP","Prefeito","PODE","Não Eleito","FEM.","PARDA",1482500,22761,2020
+30000676677,"Jose Samuel Alcolumbre Tobelem","Macapá","AP","Prefeito","DEM","2º Turno","MASC.","PARDA",2013000,140010,2020
+30000676677,"Jose Samuel Alcolumbre Tobelem","Macapá","AP","Prefeito","DEM","Não Eleito","MASC.","PARDA",2013000,140010,2020
+20000699066,"Emmanuel Fortes Silveira Cavalcanti","Maceió","AL","Vice-prefeito","PSL","Não Eleito","MASC.","PARDA",NA,0,2020
+20000699996,"IVANILDA DA CONCEIÇÃO GOMES","Maceió","AL","Vice-prefeito","UP","Não Eleito","FEM.","PRETA",NA,0,2020
+20000700014,"Maria Yvone Loureiro Ribeiro","Maceió","AL","Vice-prefeito","PCdoB","Não Eleito","FEM.","BRANCA",NA,0,2020
+20000774386,"TACIO MELO DA SILVEIRA","Maceió","AL","Vice-prefeito","PODE","2º Turno","MASC.","BRANCA",NA,0,2020
+20000774386,"TACIO MELO DA SILVEIRA","Maceió","AL","Vice-prefeito","PODE","Não Eleito","MASC.","BRANCA",NA,0,2020
+20000823762,"Élida Rachel Miranda Sousa","Maceió","AL","Vice-prefeito","PT","Não Eleito","FEM.","PRETA",NA,0,2020
+20000824170,"Inês Falcão Wanderley De Almeida","Maceió","AL","Vice-prefeito","PATRIOTA","Não Eleito","FEM.","BRANCA",NA,0,2020
+20000842792,"Ronaldo Augusto Lessa Santos","Maceió","AL","Vice-prefeito","PDT","2º Turno","MASC.","BRANCA",NA,0,2020
+20000842792,"Ronaldo Augusto Lessa Santos","Maceió","AL","Vice-prefeito","PDT","Eleito","MASC.","BRANCA",NA,0,2020
+20000963940,"ANA CLAUDIA BEZERRA","Maceió","AL","Vice-prefeito","PTB","Não Eleito","FEM.","BRANCA",NA,0,2020
+20000964087,"Darlysson Igor Da Silva","Maceió","AL","Vice-prefeito","PSOL","Não Eleito","MASC.","PRETA",NA,0,2020
+20001188053,"Gildeson Sampaio De Oliveira","Maceió","AL","Vice-prefeito","PMN","Nulo","MASC.","PARDA",NA,0,2020
+20001274362,"Roberto De Paiva Torres","Maceió","AL","Vice-prefeito","PMN","Não Eleito","MASC.","BRANCA",NA,0,2020
+20000699995,"LENILDA LUNA DE ALMEIDA","Maceió","AL","Prefeito","UP","Não Eleito","FEM.","PARDA",21343,4875,2020
+20000963941,"JOSÉ CÍCERO SOARES DE ALMEIDA","Maceió","AL","Prefeito","DC","Não Eleito","MASC.","PARDA",99190,9905,2020
+20000700015,"Cicero Pereira Dos Santos Filho","Maceió","AL","Prefeito","PCdoB","Não Eleito","MASC.","BRANCA",111266.37,3427,2020
+20001188052,"Corintho Onelio Campelo Da Paz","Maceió","AL","Prefeito","PMN","Não Eleito","MASC.","PARDA",122000,507,2020
+20000824171,"JOSAN LEITE PEREIRA BARROS","Maceió","AL","Prefeito","PATRIOTA","Não Eleito","MASC.","BRANCA",160024,23925,2020
+20000964086,"Maria Valeria Costa Correia","Maceió","AL","Prefeito","PSOL","Não Eleito","FEM.","BRANCA",163778.65,13568,2020
+20000823761,"Ricardo Sérgio Barbosa De Oliveira","Maceió","AL","Prefeito","PT","Não Eleito","MASC.","BRANCA",421220,8905,2020
+20000774385,"Alfredo Gaspar De Mendonça Neto","Maceió","AL","Prefeito","MDB","2º Turno","MASC.","BRANCA",2209890,266938,2020
+20000774385,"Alfredo Gaspar De Mendonça Neto","Maceió","AL","Prefeito","MDB","Não Eleito","MASC.","BRANCA",2209890,266938,2020
+20000699067,"David Cabral Davino Filho","Maceió","AL","Prefeito","PP","Não Eleito","MASC.","BRANCA",2641814.86,97409,2020
+20000842791,"João Henrique Holanda Caldas","Maceió","AL","Prefeito","PSB","2º Turno","MASC.","PARDA",5052797.91,331200,2020
+20000842791,"João Henrique Holanda Caldas","Maceió","AL","Prefeito","PSB","Eleito","MASC.","PARDA",5052797.91,331200,2020
+40000636773,"Augusto Cezar Silva De Menezes","Manaus","AM","Vice-prefeito","DC","Não Eleito","MASC.","PARDA",NA,0,2020
+40000671365,"Marklize Dos Santos Siqueira","Manaus","AM","Vice-prefeito","PT","Não Eleito","FEM.","PRETA",NA,0,2020
+40000671367,"Eduardo Baldoino Da Costa","Manaus","AM","Vice-prefeito","NOVO","Não Eleito","MASC.","BRANCA",NA,0,2020
+40000671460,"George Augusto Monteiro Lins De Albuquerque","Manaus","AM","Vice-prefeito","PSD","Não Eleito","MASC.","BRANCA",NA,0,2020
+40000686949,"Orsine Rufino De Oliveira Junior","Manaus","AM","Vice-prefeito","PMN","Não Eleito","MASC.","PARDA",NA,0,2020
+40000686957,"MARIA AUXILIADORA OLIVEIRA DE CASTRO","Manaus","AM","Vice-prefeito","PSTU","Não Eleito","FEM.","PARDA",NA,0,2020
+40000793781,"Mauricio Wilker De Azevedo Barreto","Manaus","AM","Vice-prefeito","PODE","2º Turno","MASC.","PARDA",NA,0,2020
+40000793781,"Mauricio Wilker De Azevedo Barreto","Manaus","AM","Vice-prefeito","PODE","Não Eleito","MASC.","PARDA",NA,0,2020
+40000793784,"RAFAEL AMARAL DA COSTA E SILVA","Manaus","AM","Vice-prefeito","PATRIOTA","Não Eleito","MASC.","PARDA",NA,0,2020
+40000868185,"Maria Da Conceição Sampaio Moura","Manaus","AM","Vice-prefeito","PSDB","Não Eleito","FEM.","BRANCA",NA,0,2020
+40000868847,"Marcos Sergio Rotta","Manaus","AM","Vice-prefeito","AVANTE","2º Turno","MASC.","BRANCA",NA,0,2020
+40000868847,"Marcos Sergio Rotta","Manaus","AM","Vice-prefeito","AVANTE","Eleito","MASC.","BRANCA",NA,0,2020
+40000886774,"Maria Auxiliadora De Queiroz Brasil","Manaus","AM","Vice-prefeito","PCdoB","Não Eleito","FEM.","PARDA",NA,0,2020
+40000686956,"GILBERTO VASCONCELOS DA SILVA","Manaus","AM","Prefeito","PSTU","Não Eleito","MASC.","PRETA",13285,742,2020
+40000886775,"Elson Marcelo Lima De Souza","Manaus","AM","Prefeito","PCdoB","Não Eleito","MASC.","PARDA",31545.88,2820,2020
+40000636774,"Marco Antonio Souza Ribeiro Da Costa","Manaus","AM","Prefeito","DC","Não Eleito","MASC.","BRANCA",42147.71,0,2020
+40000793783,"ALFREDO ALEXANDRE DE MENEZES JUNIOR","Manaus","AM","Prefeito","PATRIOTA","Não Eleito","MASC.","PARDA",154468,110805,2020
+40000671368,"Romero Reis","Manaus","AM","Prefeito","NOVO","Não Eleito","MASC.","BRANCA",799087.59,29102,2020
+40000686950,"ALBERTO BARROS CAVALCANTE NETO","Manaus","AM","Prefeito","REPUBLICANOS","Não Eleito","MASC.","BRANCA",1376483.1,76576,2020
+40000671366,"Jose Ricardo Wendling","Manaus","AM","Prefeito","PT","Não Eleito","MASC.","BRANCA",1636985.82,139846,2020
+40000868846,"DAVID ANTONIO ABISAI PEREIRA DE ALMEIDA","Manaus","AM","Prefeito","AVANTE","2º Turno","MASC.","PARDA",3196673.77,685899,2020
+40000868846,"DAVID ANTONIO ABISAI PEREIRA DE ALMEIDA","Manaus","AM","Prefeito","AVANTE","Eleito","MASC.","PARDA",3196673.77,685899,2020
+40000793782,"Amazonino Armando Mendes","Manaus","AM","Prefeito","PODE","2º Turno","MASC.","PARDA",4854629.96,677835,2020
+40000793782,"Amazonino Armando Mendes","Manaus","AM","Prefeito","PODE","Não Eleito","MASC.","PARDA",4854629.96,677835,2020
+40000671459,"Luis Ricardo Saldanha Nicolau","Manaus","AM","Prefeito","PSD","Não Eleito","MASC.","BRANCA",5756900,118289,2020
+40000868186,"Alfredo Pereira Do Nascimento","Manaus","AM","Prefeito","PL","Não Eleito","MASC.","PARDA",6031000,31676,2020
+200000636694,"Karina Souza Diniz De Araújo","Natal","RN","Vice-prefeito","SOLIDARIEDADE","Nulo","FEM.","BRANCA",NA,0,2020
+200000645428,"Ana Paula Trento","Natal","RN","Vice-prefeito","PODE","Não Eleito","FEM.","BRANCA",NA,0,2020
+200000667796,"Antonia Deusa Alves Martins Dos Santos","Natal","RN","Vice-prefeito","PP","Não Eleito","FEM.","BRANCA",NA,0,2020
+200000723678,"Fernando Roberto Cavalcante Bandeira Do Amaral","Natal","RN","Vice-prefeito","NOVO","Nulo","MASC.","BRANCA",NA,0,2020
+200000760168,"José Jairan Valdevino","Natal","RN","Vice-prefeito","PSTU","Não Eleito","MASC.","PRETA",NA,0,2020
+200000847740,"TATIANA PEREIRA PIRES","Natal","RN","Vice-prefeito","PSB","Não Eleito","FEM.","PRETA",NA,0,2020
+200000918895,"BRENNO OLIVEIRA QUEIROGA DE MORAIS","Natal","RN","Vice-prefeito","SOLIDARIEDADE","Não Eleito","MASC.","BRANCA",NA,0,2020
+200000919402,"Getulio Batista Da Silva Neto","Natal","RN","Vice-prefeito","PTB","Não Eleito","MASC.","BRANCA",NA,0,2020
+200000950103,"Danniel Alexandre Ferreira De Morais","Natal","RN","Vice-prefeito","PSOL","Não Eleito","MASC.","BRANCA",NA,0,2020
+200001030656,"Joana Darc Lopes Da Silva","Natal","RN","Vice-prefeito","PCdoB","Não Eleito","FEM.","BRANCA",NA,0,2020
+200001031418,"Carlos Eduardo Da Câmara Nunes Do Nascimento","Natal","RN","Vice-prefeito","CIDADANIA","Não Eleito","MASC.","PRETA",NA,0,2020
+200001055016,"SHIRLEI BARROS DE MEDEIROS","Natal","RN","Vice-prefeito","DC","Não Eleito","FEM.","BRANCA",NA,0,2020
+200001179006,"Elizabeth Lima Da Silva","Natal","RN","Vice-prefeito","PT","Nulo","FEM.","PRETA",NA,0,2020
+200001187759,"Erick Marianne Queiroz Guerra","Natal","RN","Vice-prefeito","PSC","Não Eleito","MASC.","INDÍGENA",NA,0,2020
+200001194164,"Aila Maria Ramalho Cortez De Oliveira","Natal","RN","Vice-prefeito","PDT","Eleito","FEM.","BRANCA",NA,0,2020
+200001265134,"Estrela","Natal","RN","Vice-prefeito","PT","Não Eleito","MASC.","BRANCA",NA,0,2020
+200000723677,"Fernando Pinto De Araújo Neto","Natal","RN","Prefeito","NOVO","Nulo","MASC.","BRANCA",12891.14,0,2020
+200000760167,"Rosália Maria Fernandes","Natal","RN","Prefeito","PSTU","Não Eleito","FEM.","BRANCA",15140,880,2020
+200001055015,"Jaidy Oliveira De Sousa","Natal","RN","Prefeito","DC","Não Eleito","FEM.","PARDA",31115.71,373,2020
+200000645429,"Afrânio Ferreira De Miranda Filho","Natal","RN","Prefeito","PODE","Não Eleito","MASC.","BRANCA",75800,5656,2020
+200001030655,"Fernando Carvalho De Freitas","Natal","RN","Prefeito","PCdoB","Não Eleito","MASC.","BRANCA",98363,1428,2020
+200000950104,"Maria Das Neves Valentim","Natal","RN","Prefeito","PSOL","Não Eleito","FEM.","BRANCA",121176.52,3959,2020
+200000636695,"Kelps De Oliveira Lima","Natal","RN","Prefeito","SOLIDARIEDADE","Não Eleito","MASC.","PRETA",179110,20190,2020
+200001187760,"Andre Luiz Vieira De Azevedo","Natal","RN","Prefeito","PSC","Não Eleito","MASC.","PARDA",196635,6530,2020
+200001031419,"Carlos Alberto Freire Medeiros","Natal","RN","Prefeito","PV","Não Eleito","MASC.","BRANCA",235955.53,4743,2020
+200000919401,"Helio Imbrosio Oliveira","Natal","RN","Prefeito","PRTB","Não Eleito","MASC.","BRANCA",236850,9398,2020
+200000667795,"Sergio Fernando Leocádio Teixeira","Natal","RN","Prefeito","PSL","Não Eleito","MASC.","BRANCA",454110.45,35181,2020
+200000847741,"Hermano Da Costa Moraes","Natal","RN","Prefeito","PSB","Não Eleito","MASC.","BRANCA",522734,11626,2020
+200001179005,"Jean Paul Terra Prates","Natal","RN","Prefeito","PT","Não Eleito","MASC.","BRANCA",1228529.52,49494,2020
+200001194163,"Álvaro Costa Dias","Natal","RN","Prefeito","PSDB","Eleito","MASC.","BRANCA",2122585.53,194764,2020
+270000747241,"Nilmar Gavino Ruiz","Palmas","TO","Vice-prefeito","PSB","Nulo","Não Divulgável","Não Divulgável",NA,0,2020
+270000767543,"Rosilene Alves Damaso","Palmas","TO","Vice-prefeito","PROS","Nulo","FEM.","PARDA",NA,0,2020
+270000993391,"Micheline Pimentel Ribeiro Cavalcante","Palmas","TO","Vice-prefeito","PODE","Não Eleito","FEM.","PARDA",NA,0,2020
+270000999479,"Milton Neris De Santana","Palmas","TO","Vice-prefeito","PDT","Não Eleito","MASC.","PARDA",NA,0,2020
+270001056642,"MARIA LUCIA SOARES VIANA","Palmas","TO","Vice-prefeito","PSOL","Não Eleito","FEM.","PRETA",NA,0,2020
+270001103778,"Domingos Ribeiro Bezerra","Palmas","TO","Vice-prefeito","PMB","Não Eleito","MASC.","PRETA",NA,0,2020
+270001129940,"Jacy Vieira Soares","Palmas","TO","Vice-prefeito","PTC","Não Eleito","FEM.","PARDA",NA,0,2020
+270001130365,"GILBERTO DOS SANTOS","Palmas","TO","Vice-prefeito","PRTB","Não Eleito","MASC.","PARDA",NA,0,2020
+270001130615,"GERSON ALVES DE SOUSA","Palmas","TO","Vice-prefeito","PSL","Não Eleito","MASC.","BRANCA",NA,0,2020
+270001187525,"Naiara Cardoso Dos Santos Mascarenhas","Palmas","TO","Vice-prefeito","PT","Não Eleito","FEM.","PRETA",NA,0,2020
+270001191000,"Joseph Ribamar Madeira","Palmas","TO","Vice-prefeito","PTB","Não Eleito","MASC.","PRETA",NA,0,2020
+270001228807,"Lucas Vieira Da Silva Meira","Palmas","TO","Vice-prefeito","PSDB","Nulo","MASC.","BRANCA",NA,0,2020
+270001265823,"André Luiz Torres Gomes","Palmas","TO","Vice-prefeito","AVANTE","Eleito","MASC.","BRANCA",NA,0,2020
+270001268438,"Nilmar Gavino Ruiz","Palmas","TO","Vice-prefeito","PL","Não Eleito","FEM.","BRANCA",NA,0,2020
+270001269394,"Rosilene Alves Damaso","Palmas","TO","Vice-prefeito","PSC","Não Eleito","FEM.","PARDA",NA,0,2020
+270001056641,"João Aparecido Bazzoli","Palmas","TO","Prefeito","PSOL","Não Eleito","MASC.","BRANCA",2750,1060,2020
+270001103779,"Joaquim Rocha Pereira","Palmas","TO","Prefeito","PMB","Não Eleito","MASC.","BRANCA",25285,407,2020
+270001129941,"Max Dornellys Borges De Oliveira","Palmas","TO","Prefeito","PTC","Não Eleito","MASC.","PARDA",85986.28,627,2020
+270001187524,"João Helder Vilela","Palmas","TO","Prefeito","PT","Não Eleito","MASC.","BRANCA",296276.33,3402,2020
+270000999480,"Marcello De Lima Lelis","Palmas","TO","Prefeito","PV","Não Eleito","MASC.","PARDA",418643.84,4281,2020
+270001191001,"Eli Dias Borges","Palmas","TO","Prefeito","SOLIDARIEDADE","Não Eleito","MASC.","PARDA",550100,16582,2020
+270000993392,"Alan Kardec Martins Barbiero","Palmas","TO","Prefeito","PODE","Não Eleito","MASC.","BRANCA",835495,2028,2020
+270000767544,"José Luiz Pereira Júnior","Palmas","TO","Prefeito","PROS","Não Eleito","MASC.","PARDA",1039400,18523,2020
+270001130366,"Gil Fonseca Barison","Palmas","TO","Prefeito","REPUBLICANOS","Não Eleito","MASC.","BRANCA",1372169.37,7654,2020
+270000747240,"Tiago De Paula Andrino","Palmas","TO","Prefeito","PSB","Não Eleito","MASC.","PARDA",1602406.5,15707,2020
+270001228806,"Cinthia Alves Caetano Ribeiro","Palmas","TO","Prefeito","PSDB","Eleito","FEM.","BRANCA",2791553.1,46243,2020
+270001130616,"Vandelucia Monteiro De Castro","Palmas","TO","Prefeito","PSL","Não Eleito","FEM.","PRETA",4057693.35,11079,2020
+210000636250,"Edelberto Machado Mendonça Neto","Porto Alegre","RS","Vice-prefeito","PROS","Não Eleito","MASC.","BRANCA",NA,0,2020
+210000649929,"MARCIO CHAGAS DA SILVA","Porto Alegre","RS","Vice-prefeito","PSOL","Não Eleito","MASC.","PRETA",NA,0,2020
+210000668211,"FERNANDO EDISON DOMINGUES SOARES","Porto Alegre","RS","Vice-prefeito","REPUBLICANOS","Não Eleito","MASC.","BRANCA",NA,0,2020
+210000668383,"Ricardo Santos Gomes","Porto Alegre","RS","Vice-prefeito","MDB","2º Turno","MASC.","BRANCA",NA,0,2020
+210000668383,"Ricardo Santos Gomes","Porto Alegre","RS","Vice-prefeito","MDB","Eleito","MASC.","BRANCA",NA,0,2020
+210000683533,"Vera Rosane Rodrigues De Oliveira","Porto Alegre","RS","Vice-prefeito","PSTU","Não Eleito","FEM.","PRETA",NA,0,2020
+210000729171,"Miguel Soldatelli Rossetto","Porto Alegre","RS","Vice-prefeito","PT","2º Turno","MASC.","BRANCA",NA,0,2020
+210000729171,"Miguel Soldatelli Rossetto","Porto Alegre","RS","Vice-prefeito","PT","Não Eleito","MASC.","BRANCA",NA,0,2020
+210000841470,"Carmen Beatriz Silva Dos Santos","Porto Alegre","RS","Vice-prefeito","AVANTE","Não Eleito","FEM.","BRANCA",NA,0,2020
+210000842290,"Andre Martins De Lima Cecchini","Porto Alegre","RS","Vice-prefeito","PATRIOTA","Não Eleito","MASC.","BRANCA",NA,0,2020
+210000982837,"João Carlos Da Luz Diogo","Porto Alegre","RS","Vice-prefeito","PSD","Não Eleito","MASC.","BRANCA",NA,0,2020
+210001008914,"Alda Terezinha Lopes Miller","Porto Alegre","RS","Vice-prefeito","PV","Não Eleito","FEM.","BRANCA",NA,0,2020
+210001104025,"Delaine Kalikosky De Oliveira","Porto Alegre","RS","Vice-prefeito","PCO","Não Eleito","FEM.","BRANCA",NA,0,2020
+210001185048,"Gustavo Tânger Jardim","Porto Alegre","RS","Vice-prefeito","PSDB","Não Eleito","MASC.","BRANCA",NA,0,2020
+210001189950,"Maria Luiza Oliveira Loose","Porto Alegre","RS","Vice-prefeito","PSB","Não Eleito","FEM.","BRANCA",NA,0,2020
+210001104024,"Luiz Delvair Martins Barros","Porto Alegre","RS","Prefeito","PCO","Não Eleito","MASC.","BRANCA",1000,0,2020
+210000683532,"Julio Cesar Leirias Flores","Porto Alegre","RS","Prefeito","PSTU","Não Eleito","MASC.","BRANCA",17858.14,852,2020
+210001008913,"Montserrat Antônio De Vasconcellos Martins","Porto Alegre","RS","Prefeito","PV","Não Eleito","MASC.","BRANCA",57370.37,1415,2020
+210000668212,"João Derly De Oliveira Nunes Junior","Porto Alegre","RS","Prefeito","REPUBLICANOS","Não Eleito","MASC.","BRANCA",385370.15,19004,2020
+210000636251,"Rodrigo Marini Maroni","Porto Alegre","RS","Prefeito","PROS","Não Eleito","MASC.","BRANCA",484105.26,3314,2020
+210000982836,"Valter Luis Da Costa Nagelstein","Porto Alegre","RS","Prefeito","PSD","Não Eleito","MASC.","BRANCA",524300,20033,2020
+210000842289,"Jose Alberto Reus Fortunati","Porto Alegre","RS","Prefeito","PTB","Não Eleito","MASC.","BRANCA",928226.04,0,2020
+210000649928,"Fernanda Melchionna E Silva","Porto Alegre","RS","Prefeito","PSOL","Não Eleito","FEM.","BRANCA",1219871.81,27994,2020
+210000841471,"Gustavo Bohrer Paim","Porto Alegre","RS","Prefeito","PP","Não Eleito","MASC.","BRANCA",1516844.22,7989,2020
+210001189949,"JULIANA BRIZOLA","Porto Alegre","RS","Prefeito","PDT","Não Eleito","FEM.","BRANCA",2702300,41407,2020
+210001185049,"Nelson Marchezan Júnior","Porto Alegre","RS","Prefeito","PSDB","Não Eleito","MASC.","BRANCA",3121120,136063,2020
+210000668382,"SEBASTIÃO DE ARAÚJO MELO","Porto Alegre","RS","Prefeito","MDB","2º Turno","MASC.","BRANCA",3389797.99,570830,2020
+210000668382,"SEBASTIÃO DE ARAÚJO MELO","Porto Alegre","RS","Prefeito","MDB","Eleito","MASC.","BRANCA",3389797.99,570830,2020
+210000729170,"Manuela Pinto Vieira D Avila","Porto Alegre","RS","Prefeito","PCdoB","2º Turno","FEM.","BRANCA",5532250.31,495007,2020
+210000729170,"Manuela Pinto Vieira D Avila","Porto Alegre","RS","Prefeito","PCdoB","Não Eleito","FEM.","BRANCA",5532250.31,495007,2020
+220000638049,"João Vitor Rocha Gonçalves","Porto Velho","RO","Vice-prefeito","PSTU","Não Eleito","MASC.","PARDA",NA,0,2020
+220000685116,"FRANCISCO BATISTA DA SILVA","Porto Velho","RO","Vice-prefeito","PCdoB","Não Eleito","MASC.","BRANCA",NA,0,2020
+220001051416,"Mauricio Fonseca Ribeiro Carvalho De Moraes","Porto Velho","RO","Vice-prefeito","PSDB","2º Turno","MASC.","BRANCA",NA,0,2020
+220001051416,"Mauricio Fonseca Ribeiro Carvalho De Moraes","Porto Velho","RO","Vice-prefeito","PSDB","Eleito","MASC.","BRANCA",NA,0,2020
+220001081446,"Milene Cristiane Da Silva","Porto Velho","RO","Vice-prefeito","REPUBLICANOS","Não Eleito","FEM.","PARDA",NA,0,2020
+220001082525,"Marciney Da Costa E Silva","Porto Velho","RO","Vice-prefeito","PSL","Não Eleito","MASC.","PARDA",NA,0,2020
+220001083154,"José Raimundo Santos Filho","Porto Velho","RO","Vice-prefeito","PSOL","Não Eleito","MASC.","PRETA",NA,0,2020
+220001105766,"Ivo Benitez","Porto Velho","RO","Vice-prefeito","DC","Não Eleito","MASC.","BRANCA",NA,0,2020
+220001138362,"ROSICLER MUNIZ OLIVEIRA","Porto Velho","RO","Vice-prefeito","PSC","Não Eleito","FEM.","PARDA",NA,0,2020
+220001138793,"BRENO MENDES DA SILVA FARIAS","Porto Velho","RO","Prefeito","AVANTE","Nulo","MASC.","PARDA",NA,0,2020
+220001138794,"Jozinelio Muniz De Oliveira","Porto Velho","RO","Vice-prefeito","AVANTE","Nulo","MASC.","PRETA",NA,0,2020
+220001169384,"Heline Abreu Braga","Porto Velho","RO","Vice-prefeito","CIDADANIA","Não Eleito","FEM.","PRETA",NA,0,2020
+220001170261,"Lhano Fernandes Adorno","Porto Velho","RO","Vice-prefeito","PT","Não Eleito","MASC.","BRANCA",NA,0,2020
+220001172316,"PEDRO ROBERTO GEMIGNANI MANCEBO","Porto Velho","RO","Vice-prefeito","PROS","2º Turno","MASC.","BRANCA",NA,0,2020
+220001172316,"PEDRO ROBERTO GEMIGNANI MANCEBO","Porto Velho","RO","Vice-prefeito","PROS","Não Eleito","MASC.","BRANCA",NA,0,2020
+220001181049,"VILCILENE GIL CAETANO MELO","Porto Velho","RO","Vice-prefeito","SOLIDARIEDADE","Não Eleito","FEM.","SEM INFORMAÇÃO",NA,0,2020
+220001220999,"Marco Antonio De Faria","Porto Velho","RO","Vice-prefeito","MDB","Não Eleito","MASC.","BRANCA",NA,0,2020
+220001225149,"Jozinelio Muniz De Oliveira","Porto Velho","RO","Vice-prefeito","PATRIOTA","Não Eleito","MASC.","PRETA",NA,0,2020
+220001226640,"Leonardo Severo Da Luz Neto","Porto Velho","RO","Vice-prefeito","PRTB","Nulo","MASC.","BRANCA",NA,0,2020
+220001273646,"Jose Caetano Morey Romano","Porto Velho","RO","Vice-prefeito","PRTB","Não Eleito","MASC.","BRANCA",NA,0,2020
+220001181050,"Mauro Ronaldo Flores Correa","Porto Velho","RO","Prefeito","SOLIDARIEDADE","Não Eleito","MASC.","BRANCA",0,16750,2020
+220001273642,"Leonardo Severo Da Luz Neto","Porto Velho","RO","Prefeito","PRTB","Não Eleito","MASC.","BRANCA",0,741,2020
+220001226641,"Ted Wilson De Almeida Ferreira","Porto Velho","RO","Prefeito","PRTB","Nulo","MASC.","BRANCA",5000,0,2020
+220000638048,"Geneci Gonçalves Dos Santos","Porto Velho","RO","Prefeito","PSTU","Não Eleito","MASC.","PRETA",7318.27,298,2020
+220001083155,"Nascimento Antônio Da Silva","Porto Velho","RO","Prefeito","PSOL","Não Eleito","MASC.","PARDA",37994,1180,2020
+220000685117,"SAMUEL COSTA MENEZES","Porto Velho","RO","Prefeito","PCdoB","Não Eleito","MASC.","PARDA",81041.7,1229,2020
+220001105767,"Joao Leonel Bertolin","Porto Velho","RO","Prefeito","PTB","Não Eleito","MASC.","BRANCA",104290.29,1624,2020
+220001170262,"Ramon Cujui Freitas","Porto Velho","RO","Prefeito","PT","Não Eleito","MASC.","PARDA",225688.86,7069,2020
+220001138361,"Edvaldo Rodrigues Soares","Porto Velho","RO","Prefeito","PSC","Não Eleito","MASC.","BRANCA",246606,4154,2020
+220001081445,"LINDOMAR BARBOSA ALVES","Porto Velho","RO","Prefeito","REPUBLICANOS","Não Eleito","MASC.","PARDA",336350.32,12061,2020
+220001169383,"Vinícius Valentin Raduan Miguel","Porto Velho","RO","Prefeito","CIDADANIA","Não Eleito","MASC.","AMARELA",374375.86,29369,2020
+220001225148,"BRENO MENDES DA SILVA FARIAS","Porto Velho","RO","Prefeito","AVANTE","Não Eleito","MASC.","PARDA",450886.6,25270,2020
+220001082524,"EYDER BRASIL DO CARMO","Porto Velho","RO","Prefeito","PSL","Não Eleito","MASC.","PRETA",899355.6,5620,2020
+220001221000,"Williames Pimentel De Oliveira","Porto Velho","RO","Prefeito","MDB","Não Eleito","MASC.","PARDA",911050,8195,2020
+220001172317,"Cristiane Lopes Da Luz Benarrosh","Porto Velho","RO","Prefeito","PP","2º Turno","FEM.","PARDA",1162038.09,123476,2020
+220001172317,"Cristiane Lopes Da Luz Benarrosh","Porto Velho","RO","Prefeito","PP","Não Eleito","FEM.","PARDA",1162038.09,123476,2020
+220001051415,"Hildon De Lima Chaves","Porto Velho","RO","Prefeito","PSDB","2º Turno","MASC.","BRANCA",1567989.43,184720,2020
+220001051415,"Hildon De Lima Chaves","Porto Velho","RO","Prefeito","PSDB","Eleito","MASC.","BRANCA",1567989.43,184720,2020
+170000638448,"André De Souza Melo Teixeira","Recife","PE","Vice-prefeito","NOVO","Não Eleito","MASC.","BRANCA",NA,0,2020
+170000638550,"JOSE ALVES DE OLIVEIRA","Recife","PE","Vice-prefeito","PRTB","Não Eleito","MASC.","BRANCA",NA,0,2020
+170000688432,"Isabella Menezes De Roldão Fiorenzano","Recife","PE","Vice-prefeito","PDT","2º Turno","FEM.","BRANCA",NA,0,2020
+170000688432,"Isabella Menezes De Roldão Fiorenzano","Recife","PE","Vice-prefeito","PDT","Eleito","FEM.","BRANCA",NA,0,2020
+170000701232,"Joao Arnaldo Novaes Junior","Recife","PE","Vice-prefeito","PSOL","2º Turno","MASC.","BRANCA",NA,0,2020
+170000701232,"Joao Arnaldo Novaes Junior","Recife","PE","Vice-prefeito","PSOL","Não Eleito","MASC.","BRANCA",NA,0,2020
+170000921325,"Priscila Krause Branco","Recife","PE","Vice-prefeito","DEM","Não Eleito","FEM.","BRANCA",NA,0,2020
+170000921803,"Rosaly De Almeida Silva","Recife","PE","Vice-prefeito","PSL","Não Eleito","FEM.","BRANCA",NA,0,2020
+170000921841,"Leonardo Santos Salazar","Recife","PE","Vice-prefeito","CIDADANIA","Não Eleito","MASC.","BRANCA",NA,0,2020
+170000979613,"Wellington Duarte Carneiro","Recife","PE","Vice-prefeito","PSC","Não Eleito","MASC.","BRANCA",NA,0,2020
+170001025070,"Katia Maria Da Silva Telles","Recife","PE","Vice-prefeito","PSTU","Não Eleito","FEM.","BRANCA",NA,0,2020
+170001113301,"ROBERTA RITA CAVALCANTI PEREIRA","Recife","PE","Vice-prefeito","PCO","Não Eleito","FEM.","BRANCA",NA,0,2020
+170001164576,"Anibal De Oliveira Valença","Recife","PE","Vice-prefeito","UP","Não Eleito","MASC.","BRANCA",NA,0,2020
+170001113300,"VICTOR ASSIS DA SILVA","Recife","PE","Prefeito","PCO","Não Eleito","MASC.","BRANCA",1000,0,2020
+170001025071,"Claudia Machado Ribeiro","Recife","PE","Prefeito","PSTU","Não Eleito","FEM.","BRANCA",10650,1190,2020
+170000638447,"Charbel Elias Maroun","Recife","PE","Prefeito","NOVO","Não Eleito","MASC.","BRANCA",56730.33,3867,2020
+170001164577,"THIAGO DE OLIVEIRA SANTOS","Recife","PE","Prefeito","UP","Não Eleito","MASC.","PRETA",73435.72,1232,2020
+170000638551,"Marco Aurelio De Medeiros Lima","Recife","PE","Prefeito","PRTB","Não Eleito","MASC.","BRANCA",107606.98,0,2020
+170000979614,"Alberto Jorge Do Nascimento Feitosa","Recife","PE","Prefeito","PSC","Não Eleito","MASC.","BRANCA",356281.19,9441,2020
+170000921842,"Patricia De Oliveira Domingos","Recife","PE","Prefeito","PODE","Não Eleito","FEM.","BRANCA",2446525,112296,2020
+170000921802,"Carlos Antonio Gomes De Andrade Lima","Recife","PE","Prefeito","PSL","Não Eleito","MASC.","BRANCA",4393252,13938,2020
+170000921324,"José Mendonça Bezerra Filho","Recife","PE","Prefeito","DEM","Não Eleito","MASC.","PARDA",5844162.5,200551,2020
+170000701230,"Marilia Valença Rocha Arraes De Alencar","Recife","PE","Prefeito","PT","2º Turno","FEM.","BRANCA",6120445.75,571374,2020
+170000701230,"Marilia Valença Rocha Arraes De Alencar","Recife","PE","Prefeito","PT","Não Eleito","FEM.","BRANCA",6120445.75,571374,2020
+170000688433,"Joao Henrique De Andrade Lima Campos","Recife","PE","Prefeito","PSB","2º Turno","MASC.","BRANCA",9926603.92,680941,2020
+170000688433,"Joao Henrique De Andrade Lima Campos","Recife","PE","Prefeito","PSB","Eleito","MASC.","BRANCA",9926603.92,680941,2020
+10000848974,"Claudio Ezequiel Passamani","Rio Branco","AC","Vice-prefeito","PSOL","Não Eleito","MASC.","BRANCA",NA,0,2020
+10000849829,"Edivanda Maria De Paula Ferreira","Rio Branco","AC","Vice-prefeito","PSC","Não Eleito","FEM.","BRANCA",NA,0,2020
+10000965108,"Antônia Lucileia Cruz Ramos Câmara","Rio Branco","AC","Vice-prefeito","PL","Não Eleito","FEM.","BRANCA",NA,0,2020
+10000969609,"Celestino Bento De Oliveira","Rio Branco","AC","Vice-prefeito","PSL","Não Eleito","MASC.","PARDA",NA,0,2020
+10001003636,"Marfiza De Lima Galvão","Rio Branco","AC","Vice-prefeito","PSD","2º Turno","FEM.","PARDA",NA,0,2020
+10001003636,"Marfiza De Lima Galvão","Rio Branco","AC","Vice-prefeito","PSD","Eleito","FEM.","PARDA",NA,0,2020
+10001154204,"Eduardo Ambros Ribeiro","Rio Branco","AC","Vice-prefeito","PDT","2º Turno","MASC.","BRANCA",NA,0,2020
+10001154204,"Eduardo Ambros Ribeiro","Rio Branco","AC","Vice-prefeito","PDT","Não Eleito","MASC.","BRANCA",NA,0,2020
+10001201469,"José Afonso Vasconcelos Fernandes","Rio Branco","AC","Vice-prefeito","DC","Não Eleito","MASC.","BRANCA",NA,0,2020
+10001201470,"Belcladio Jarbas Soster","Rio Branco","AC","Prefeito","AVANTE","Não Eleito","MASC.","BRANCA",201970,2294,2020
+10000849828,"JAMYL ASFURY MARTINS OLIVEIRA","Rio Branco","AC","Prefeito","PSC","Não Eleito","MASC.","PARDA",230330,1509,2020
+10001003637,"Sebastião Bocalom Rodrigues","Rio Branco","AC","Prefeito","PP","2º Turno","MASC.","PARDA",268308.6,192733,2020
+10001003637,"Sebastião Bocalom Rodrigues","Rio Branco","AC","Prefeito","PP","Eleito","MASC.","PARDA",268308.6,192733,2020
+10000848975,"Daniel Queiroz De Sant Ana","Rio Branco","AC","Prefeito","PT","Não Eleito","MASC.","BRANCA",281963.71,7121,2020
+10000965109,"Roberto Duarte Júnior","Rio Branco","AC","Prefeito","MDB","Não Eleito","MASC.","PARDA",339046.95,12362,2020
+10000969608,"Minoru Martins Kinpara","Rio Branco","AC","Prefeito","PSDB","Não Eleito","MASC.","AMARELA",407000,25939,2020
+10001154203,"Maria Do Socorro Neri Medeiros De Souza","Rio Branco","AC","Prefeito","PSB","2º Turno","FEM.","BRANCA",467190.87,101952,2020
+10001154203,"Maria Do Socorro Neri Medeiros De Souza","Rio Branco","AC","Prefeito","PSB","Não Eleito","FEM.","BRANCA",467190.87,101952,2020
+190000641671,"Giselle Guimarães Gomes","Rio de Janeiro","RJ","Vice-prefeito","NOVO","Não Eleito","FEM.","PARDA",NA,0,2020
+190000684239,"Andrea Louriçal Firmo De Araújo","Rio de Janeiro","RJ","Vice-prefeito","REPUBLICANOS","2º Turno","FEM.","BRANCA",NA,0,2020
+190000684239,"Andrea Louriçal Firmo De Araújo","Rio de Janeiro","RJ","Vice-prefeito","REPUBLICANOS","Não Eleito","FEM.","BRANCA",NA,0,2020
+190000684521,"Ibis Silva Pereira","Rio de Janeiro","RJ","Vice-prefeito","PSOL","Não Eleito","MASC.","PRETA",NA,0,2020
+190000688287,"NILTON CALDEIRA DA FONSECA FILHO","Rio de Janeiro","RJ","Vice-prefeito","PL","2º Turno","MASC.","BRANCA",NA,0,2020
+190000688287,"NILTON CALDEIRA DA FONSECA FILHO","Rio de Janeiro","RJ","Vice-prefeito","PL","Eleito","MASC.","BRANCA",NA,0,2020
+190000688301,"Jorge Coutinho","Rio de Janeiro","RJ","Vice-prefeito","PROS","Não Eleito","MASC.","PRETA",NA,0,2020
+190000858700,"Maria Elisa Wildhagen Guimarães","Rio de Janeiro","RJ","Vice-prefeito","PSTU","Não Eleito","FEM.","BRANCA",NA,0,2020
+190000885035,"Fernando Da Silva Veloso","Rio de Janeiro","RJ","Vice-prefeito","PSD","Não Eleito","MASC.","BRANCA",NA,0,2020
+190000945199,"Anderson Luiz Alves De Oliveira","Rio de Janeiro","RJ","Vice-prefeito","PSB","Não Eleito","MASC.","PRETA",NA,0,2020
+190000945337,"Rejane De Almeida","Rio de Janeiro","RJ","Vice-prefeito","PCdoB","Não Eleito","FEM.","PRETA",NA,0,2020
+190000946167,"Jéssica Rabello Guimarães","Rio de Janeiro","RJ","Vice-prefeito","PMB","Não Eleito","FEM.","BRANCA",NA,0,2020
+190000988468,"SHEILA CRISTINA BARBOSA DE ALBUQUERQUE","Rio de Janeiro","RJ","Vice-prefeito","MDB","Não Eleito","FEM.","PRETA",NA,0,2020
+190001005297,"Luis Mauro Santos Da Silva","Rio de Janeiro","RJ","Vice-prefeito","PSC","Não Eleito","MASC.","BRANCA",NA,0,2020
+190001091135,"Caetano Sigiliano","Rio de Janeiro","RJ","Vice-prefeito","PCO","Não Eleito","MASC.","BRANCA",NA,0,2020
+190001156277,"Andrea De Lima Gouvêa Vieira","Rio de Janeiro","RJ","Vice-prefeito","REDE","Não Eleito","FEM.","BRANCA",NA,0,2020
+190001091134,"HENRIQUE VITAL BRAZIL SIMONARD","Rio de Janeiro","RJ","Prefeito","PCO","Não Eleito","MASC.","BRANCA",1000,0,2020
